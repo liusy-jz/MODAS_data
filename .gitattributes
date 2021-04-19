@@ -1,3 +1,4 @@
 metabolome/** filter=lfs diff=lfs merge=lfs -text
 transcriptome/** filter=lfs diff=lfs merge=lfs -text
 genotype/** filter=lfs diff=lfs merge=lfs -text
+agronomic_traits/** filter=lfs diff=lfs merge=lfs -text
