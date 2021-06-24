@@ -6,3 +6,4 @@ metabolome/nc_wen_metabolite_class.csv filter=lfs diff=lfs merge=lfs -text
 maize_genefunc.txt filter=lfs diff=lfs merge=lfs -text
 example_data/* filter=lfs diff=lfs merge=lfs -text
 example_data/example.phe.csv filter=lfs diff=lfs merge=lfs -text
+example_data/** filter=lfs diff=lfs merge=lfs -text
